@@ -1,5 +1,7 @@
 NAME=less
-VERSION=487
+VERSION=530
 REVISION=1
-SRC=http://www.greenwoodsoftware.com/less/less-487.tar.gz
-SRCMD5=dcc8bf183a83b362d37fe9ef8df1fb60
+SRC=http://www.greenwoodsoftware.com/less/less-530.tar.gz
+SRCMD5=6a39bccf420c946b0fd7ffc64961315b
+OPTIONS=bootstrap|release
+DEFAULTS=release
